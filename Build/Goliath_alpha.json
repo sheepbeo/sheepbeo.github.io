@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Goliath_alpha.data.unityweb",
+"asmCodeUrl": "Goliath_alpha.asm.code.unityweb",
+"asmMemoryUrl": "Goliath_alpha.asm.memory.unityweb",
+"asmFrameworkUrl": "Goliath_alpha.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
