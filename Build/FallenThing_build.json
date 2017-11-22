@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "FallenThing_build.data.unityweb",
+"asmCodeUrl": "FallenThing_build.asm.code.unityweb",
+"asmMemoryUrl": "FallenThing_build.asm.memory.unityweb",
+"asmFrameworkUrl": "FallenThing_build.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
