@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>BlockMatch</title>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+    var gameInstance = UnityLoader.instantiate("gameContainer", "Build/BlockMatchBuild.json");
+    </script>
+  </head>
+  
+  <body>
+    <div id="gameContainer" style="width: 960px; height: 600px; margin: auto"></div>
+	<div id="instruction">
+		Drag and Drop chunks to fill the grid<br>
+		Match 3+ to destroy blocks and earn scores<br>
+		The more blocks matched at same time, the higher the score earn!<br>
+		Ex: Match 3 => 60, Match 4 => 100, Match 5 => 150 etc.<br>
+		Game over when grid cannot be filled anymore!<br>
+	</div>
+	<div id="leaderboard">
+		<a href="https://docs.google.com/spreadsheets/d/13qo-rU2g1fJkj0U1AbjCxFjyh3M0ItpTSh7LKyr65_M/edit#gid=0" target="_blank">Temporary Scoreboard</a>
+	</div>
+  </body>
+  
+</html>
